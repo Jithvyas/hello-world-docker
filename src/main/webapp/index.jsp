@@ -7,6 +7,6 @@
 <title>HelloWord</title>
 </head>
 <body>
-	<b>It's working correctly...</b>
+	<b>It's working...</b>
 </body>
 </html>
