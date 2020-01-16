@@ -7,6 +7,6 @@
 <title>HelloWord</title>
 </head>
 <body>
-	<h2> Jenkins & Docker CI/CD Pipelines Working Correctly...</h2>
+	<h2>It's working...</h2>
 </body>
 </html>
